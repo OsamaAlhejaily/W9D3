@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Oussama\\Desktop\\ProductDashboard\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4251DCE3-058E-4FAA-A355-27C66F2E8DAC}|ProductDashboard\\ProductDashboard.csproj|c:\\users\\oussama\\desktop\\productdashboard\\productdashboard\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4251DCE3-058E-4FAA-A355-27C66F2E8DAC}|ProductDashboard\\ProductDashboard.csproj|solutionrelative:productdashboard\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4251DCE3-058E-4FAA-A355-27C66F2E8DAC}|ProductDashboard\\ProductDashboard.csproj|c:\\users\\oussama\\desktop\\productdashboard\\productdashboard\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4251DCE3-058E-4FAA-A355-27C66F2E8DAC}|ProductDashboard\\ProductDashboard.csproj|solutionrelative:productdashboard\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4251DCE3-058E-4FAA-A355-27C66F2E8DAC}|ProductDashboard\\ProductDashboard.csproj|c:\\users\\oussama\\desktop\\productdashboard\\productdashboard\\wwwroot\\js\\products.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{4251DCE3-058E-4FAA-A355-27C66F2E8DAC}|ProductDashboard\\ProductDashboard.csproj|solutionrelative:productdashboard\\wwwroot\\js\\products.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4251DCE3-058E-4FAA-A355-27C66F2E8DAC}|ProductDashboard\\ProductDashboard.csproj|c:\\users\\oussama\\desktop\\productdashboard\\productdashboard\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4251DCE3-058E-4FAA-A355-27C66F2E8DAC}|ProductDashboard\\ProductDashboard.csproj|solutionrelative:productdashboard\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4251DCE3-058E-4FAA-A355-27C66F2E8DAC}|ProductDashboard\\ProductDashboard.csproj|c:\\users\\oussama\\desktop\\productdashboard\\productdashboard\\models\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4251DCE3-058E-4FAA-A355-27C66F2E8DAC}|ProductDashboard\\ProductDashboard.csproj|solutionrelative:productdashboard\\models\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4251DCE3-058E-4FAA-A355-27C66F2E8DAC}|ProductDashboard\\ProductDashboard.csproj|c:\\users\\oussama\\desktop\\productdashboard\\productdashboard\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4251DCE3-058E-4FAA-A355-27C66F2E8DAC}|ProductDashboard\\ProductDashboard.csproj|solutionrelative:productdashboard\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Oussama\\Desktop\\ProductDashboard\\ProductDashboard\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "ProductDashboard\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Oussama\\Desktop\\ProductDashboard\\ProductDashboard\\Models\\ErrorViewModel.cs*",
+              "RelativeToolTip": "ProductDashboard\\Models\\ErrorViewModel.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T10:58:25.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Oussama\\Desktop\\ProductDashboard\\ProductDashboard\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ProductDashboard\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Oussama\\Desktop\\ProductDashboard\\ProductDashboard\\Controllers\\HomeController.cs*",
+              "RelativeToolTip": "ProductDashboard\\Controllers\\HomeController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T10:58:16.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "products.js",
+              "DocumentMoniker": "C:\\Users\\Oussama\\Desktop\\ProductDashboard\\ProductDashboard\\wwwroot\\js\\products.js",
+              "RelativeDocumentMoniker": "ProductDashboard\\wwwroot\\js\\products.js",
+              "ToolTip": "C:\\Users\\Oussama\\Desktop\\ProductDashboard\\ProductDashboard\\wwwroot\\js\\products.js",
+              "RelativeToolTip": "ProductDashboard\\wwwroot\\js\\products.js",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAwCwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-04-22T10:26:17.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Oussama\\Desktop\\ProductDashboard\\ProductDashboard\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProductDashboard\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Oussama\\Desktop\\ProductDashboard\\ProductDashboard\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ProductDashboard\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAQwKcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-22T10:26:07.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Oussama\\Desktop\\ProductDashboard\\ProductDashboard\\Models\\ProductViewModel.cs",
+              "RelativeDocumentMoniker": "ProductDashboard\\Models\\ProductViewModel.cs",
+              "ToolTip": "C:\\Users\\Oussama\\Desktop\\ProductDashboard\\ProductDashboard\\Models\\ProductViewModel.cs",
+              "RelativeToolTip": "ProductDashboard\\Models\\ProductViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T10:25:49.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\Oussama\\Desktop\\ProductDashboard\\ProductDashboard\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "ProductDashboard\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\Oussama\\Desktop\\ProductDashboard\\ProductDashboard\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "ProductDashboard\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T10:25:15.619Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

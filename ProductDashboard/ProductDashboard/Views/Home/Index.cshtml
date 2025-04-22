@@ -1,0 +1,178 @@
+﻿@{
+    ViewData["Title"] = "Product Dashboard";
+}
+<h1>Product Dashboard</h1>
+
+<!-- Search -->
+<input type="text" id="searchInput" placeholder="Search products..." />
+
+<!-- Product Form -->
+<form id="productForm">
+    <h3>Add New Product</h3>
+    <input type="text" id="productTitle" placeholder="Product title" required />
+    <br />
+    <textarea id="productBody" placeholder="Product description" required></textarea>
+    <br />
+    <button type="submit">Add Product</button>
+</form>
+<style>
+    body {
+        font-family: 'Segoe UI', sans-serif;
+        background-color: #f2f4f8;
+        padding: 30px;
+        color: #333;
+    }
+
+    h1 {
+        text-align: center;
+        margin-bottom: 30px;
+        color: #222;
+    }
+
+    #searchInput {
+        width: 100%;
+        padding: 10px;
+        margin-bottom: 20px;
+        border: 1px solid #ccc;
+        border-radius: 6px;
+        font-size: 16px;
+        box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+    }
+
+    #productForm {
+        background-color: #fff;
+        border: 1px solid #ddd;
+        border-radius: 8px;
+        padding: 20px;
+        margin-bottom: 20px;
+        box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+    }
+
+        #productForm h3 {
+            margin-top: 0;
+            color: #444;
+        }
+
+        #productForm input[type="text"],
+        #productForm textarea {
+            width: 100%;
+            padding: 10px;
+            margin: 8px 0 12px;
+            border: 1px solid #ccc;
+            border-radius: 6px;
+            font-size: 15px;
+            resize: vertical;
+        }
+
+        #productForm button {
+            background-color: #007bff;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 6px;
+            cursor: pointer;
+            transition: background-color 0.2s ease;
+        }
+
+            #productForm button:hover {
+                background-color: #0056b3;
+            }
+
+    .product {
+        background-color: #fff;
+        border: 1px solid #ddd;
+        border-radius: 8px;
+        padding: 15px;
+        margin-bottom: 15px;
+        box-shadow: 0 2px 4px rgba(0,0,0,0.03);
+        transition: transform 0.1s ease;
+    }
+
+        .product:hover {
+            transform: scale(1.005);
+        }
+
+    .view-mode h4,
+    .view-mode p {
+        margin: 0 0 8px;
+    }
+
+    .edit-mode input[type="text"],
+    .edit-mode textarea {
+        width: 100%;
+        padding: 8px;
+        margin: 6px 0;
+        font-size: 15px;
+        border: 1px solid #ccc;
+        border-radius: 6px;
+    }
+
+    .product button {
+        margin-right: 8px;
+        margin-top: 10px;
+        padding: 8px 12px;
+        font-size: 14px;
+        border: none;
+        border-radius: 6px;
+        cursor: pointer;
+    }
+
+    .edit-btn, .save-btn {
+        background-color: #28a745;
+        color: white;
+    }
+
+    .cancel-btn {
+        background-color: #6c757d;
+        color: white;
+    }
+
+    .delete-btn {
+        background-color: #dc3545;
+        color: white;
+    }
+
+    #loadMoreBtn {
+        display: block;
+        margin: 30px auto 0;
+        background-color: #17a2b8;
+        color: white;
+        padding: 10px 18px;
+        border: none;
+        border-radius: 6px;
+        cursor: pointer;
+        font-size: 15px;
+        box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    }
+
+        #loadMoreBtn:hover {
+            background-color: #138496;
+        }
+
+    #userData {
+        background-color: #fff8dc;
+        border: 1px dashed #e0c97f;
+        padding: 15px;
+        margin-bottom: 20px;
+        border-radius: 6px;
+        font-size: 14px;
+    }
+</style>
+
+<!-- User Info (batch requests) -->
+<label for="userSelect"><strong>Select User:</strong></label>
+<select id="userSelect">
+    <option value="">All Users</option>
+</select>
+
+<div id="userData"></div>
+
+<!-- Product List -->
+<div id="productList" style="margin-top: 20px;"></div>
+
+<!-- Pagination -->
+<button id="loadMoreBtn">Load More</button>
+
+@section Scripts {
+    <script src="~/js/products.js"></script>
+}
