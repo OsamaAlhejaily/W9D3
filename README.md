@@ -9,9 +9,9 @@ It uses the public [JSONPlaceholder API](https://jsonplaceholder.typicode.com) t
 
 -  View products (posts)
 -  Add new products
--  Edit products inline
+-  Edit products
 -  Delete products
--  Live search with debounce
+-  Live search
 -  Pagination with Load More
 -  Select user to filter posts
 -  Batching: load user info + posts together
